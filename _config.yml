@@ -1,0 +1,17 @@
+remote_theme: MicrosoftLearning/Jekyll-Theme
+exclude:
+  - readme.md
+  - .github/
+header_pages:
+  - index.html
+author: Shannon Lindsay and Stephanie Bruno
+twitter_username: shan_gsd, stephtbruno
+github_username:  shannonlindsay
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
