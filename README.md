@@ -1,5 +1,2 @@
-# Power BI DataViz World Championships
+This is the repository containing the instructional content for the Getting Started with Microsoft Fabric workshop at the European Fabric Community Conference.
 
-## Welcome to the repository for public Power BI DataViz World Championships assets.
-
-If you have any questions please file an issue or reach out to Shannon Lindsay.
