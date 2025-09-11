@@ -1,5 +1,5 @@
 # Create a New Workspace and Visualize Data
-#### [Made by Stephanie Bruno with Scribe](https://scribehow.com/shared/Create_a_New_Workspace_and_Visualize_Data__we3bAKiXQBW1ccOjuy3iCA)
+(https://scribehow.com/shared/Create_a_New_Workspace_and_Visualize_Data__we3bAKiXQBW1ccOjuy3iCA)
 
 
 1\. Navigate to [https://app.powerbi.com/home?experience=power-bi](https://app.powerbi.com/home?experience=power-bi)
