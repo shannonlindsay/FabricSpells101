@@ -1,1 +1,0 @@
-It turns out that the deck is too big for GitHub. You can download it here: https://johnpwhite.sharepoint.com/:p:/s/EventsBIFocal/EXWSV_PXGA5GnVs7M1yMiGIBL-PowkPhtkheRZf01dkfsg?e=6VlUzN
