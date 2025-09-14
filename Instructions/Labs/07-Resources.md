@@ -6,11 +6,13 @@ lab:
 
 # Resources
 
-## Microsoft Learn Modules
+## Collection of all Fabric Labs
 
-Take a look at the curated collection of [Microsoft Learn content](https://aka.ms/pbilearn). 
+Take a look at the curated collection of [labs](https://microsoftlearning.github.io/mslearn-fabric/) that inclues all of the labs embedded in the Microsoft Learn modules on Fabric. There are 30+ Labs here that are sure to touch on every aspect of the Fabric platform!
 
-If you'd like to learn Power BI as a complete platform, I recommend you check out the [Learning Paths associated with the Power BI Data Analyst Associate certification](https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/?azure-portal=true) (scroll down to follow the self-paced learning). Many of the modules include hands-on labs where you'll be able to practice what you've learned.
+## Resources specifically related to Power BI
+
+If you'd like to learn Power BI as a complete platform, we recommend you check out the [Learning Paths associated with the Power BI Data Analyst Associate certification](https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/?azure-portal=true) (scroll down to follow the self-paced learning). Many of the modules include hands-on labs where you'll be able to practice what you've learned.
 
 If you're looking for specific learning modules, use the search function on the [Learn platform](https://learn.microsoft.com/training/browse/?expanded=power-platform&products=power-bi).
 
