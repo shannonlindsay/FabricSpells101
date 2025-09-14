@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Resources'
-    module: 'Resources to get started with Power BI'
+    module: 'Resources to get started with Fabric and Power BI'
 ---
 
 # Resources
