@@ -12,7 +12,7 @@ Should questions arise like whispers in the forest, fear not. Cast your message 
 
 Begin your adventure below, and may the stars guide your path.
 
-*Translation: Hyperlinks to everything you need to know about today's session are listed below. If you have any questions, you can submit a [GitHub issue](https://github.com/shannonlindsay/WitchesGuide/issues/new) or reach out to us via email.*
+*Translation: Hyperlinks to everything you need to know about today's session are listed below. If you have any questions, you can submit a [GitHub issue](https://github.com/shannonlindsay/FabricSpells101/issues/new) or reach out to us via email.*
 
 ## Course Links - labs and additional resources 🔮🪄
 
