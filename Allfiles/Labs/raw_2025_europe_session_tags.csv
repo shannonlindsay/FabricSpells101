@@ -1,0 +1,241 @@
+session_id,label,score,rank,is_top_label
+1031,Copilot & AI in Fabric,0.276,1,True
+1042,Copilot & AI in Fabric,0.248,1,True
+1053,Governance & OneLake,0.246,1,True
+1074,Power BI,0.324,1,True
+1085,Governance & OneLake,0.274,1,True
+1097,Power BI,0.481,1,True
+1107,Copilot & AI in Fabric,0.248,1,True
+1125,Power BI,0.497,1,True
+1136,Copilot & AI in Fabric,0.392,1,True
+1000,Data Factory,0.526,1,True
+1000,Data Warehouse,0.473,2,False
+1000,Power BI,0.447,3,False
+1001,Governance & OneLake,0.365,1,True
+1002,Copilot & AI in Fabric,0.641,1,True
+1002,Data Factory,0.432,2,False
+1002,Data Warehouse,0.429,3,False
+1003,Data Factory,0.734,1,True
+1003,Data Warehouse,0.501,2,False
+1003,Data Engineering,0.429,3,False
+1004,Data Warehouse,0.511,1,True
+1004,Copilot & AI in Fabric,0.507,2,False
+1005,Real-Time Intelligence,0.568,1,True
+1005,Copilot & AI in Fabric,0.459,2,False
+1005,Data Warehouse,0.449,3,False
+1005,Power BI,0.427,4,False
+1006,Data Warehouse,0.694,1,True
+1006,Data Factory,0.456,2,False
+1007,Data Warehouse,0.564,1,True
+1007,Copilot & AI in Fabric,0.511,2,False
+1008,Power BI,0.603,1,True
+1009,Governance & OneLake,0.508,1,True
+1009,Data Warehouse,0.443,2,False
+1009,Data Engineering,0.43,3,False
+1010,Power BI,0.569,1,True
+1010,Copilot & AI in Fabric,0.439,2,False
+1012,Data Factory,0.547,1,True
+1012,Data Warehouse,0.481,2,False
+1013,Data Warehouse,0.665,1,True
+1015,Data Engineering,0.38,1,True
+1016,Copilot & AI in Fabric,0.38,1,True
+1018,Data Factory,0.444,1,True
+1019,Data Warehouse,0.689,1,True
+1019,Data Factory,0.456,2,False
+1019,Copilot & AI in Fabric,0.434,3,False
+1020,Data Factory,0.353,1,True
+1028,Copilot & AI in Fabric,0.417,1,True
+1035,Data Factory,0.395,1,True
+1036,Data Engineering,0.586,1,True
+1036,Data Factory,0.425,2,False
+1037,Copilot & AI in Fabric,0.342,1,True
+1039,Copilot & AI in Fabric,0.72,1,True
+1040,Data Warehouse,0.489,1,True
+1040,Data Factory,0.448,2,False
+1044,Data Engineering,0.538,1,True
+1044,Data Factory,0.51,2,False
+1044,Data Warehouse,0.509,3,False
+1045,Real-Time Intelligence,0.557,1,True
+1045,Copilot & AI in Fabric,0.509,2,False
+1047,Data Warehouse,0.492,1,True
+1047,Copilot & AI in Fabric,0.422,2,False
+1051,Data Warehouse,0.555,1,True
+1051,Power BI,0.527,2,False
+1051,Data Factory,0.503,3,False
+1051,Data Science,0.449,4,False
+1051,Copilot & AI in Fabric,0.428,5,False
+1052,Data Warehouse,0.472,1,True
+1052,Data Factory,0.462,2,False
+1054,Power BI,0.558,1,True
+1055,Copilot & AI in Fabric,0.669,1,True
+1056,Data Warehouse,0.583,1,True
+1057,Data Warehouse,0.365,1,True
+1061,Governance & OneLake,0.553,1,True
+1061,Data Warehouse,0.426,2,False
+1062,Copilot & AI in Fabric,0.527,1,True
+1062,Data Science,0.443,2,False
+1067,Data Warehouse,0.285,1,True
+1068,Data Warehouse,0.411,1,True
+1069,Copilot & AI in Fabric,0.611,1,True
+1072,Data Science,0.447,1,True
+1072,Data Factory,0.44,2,False
+1073,Copilot & AI in Fabric,0.383,1,True
+1076,Data Warehouse,0.426,1,True
+1078,Data Warehouse,0.689,1,True
+1078,Data Engineering,0.549,2,False
+1078,Data Factory,0.452,3,False
+1079,Data Warehouse,0.502,1,True
+1079,Data Factory,0.479,2,False
+1081,Copilot & AI in Fabric,0.474,1,True
+1081,Data Warehouse,0.451,2,False
+1081,Data Factory,0.435,3,False
+1083,Power BI,0.559,1,True
+1083,Data Factory,0.432,2,False
+1084,Data Warehouse,0.447,1,True
+1086,Data Warehouse,0.298,1,True
+1088,Data Warehouse,0.469,1,True
+1089,Data Warehouse,0.364,1,True
+1092,Copilot & AI in Fabric,0.338,1,True
+1093,Copilot & AI in Fabric,0.398,1,True
+1095,Data Warehouse,0.608,1,True
+1095,Governance & OneLake,0.436,2,False
+1096,Real-Time Intelligence,0.572,1,True
+1096,Power BI,0.481,2,False
+1096,Data Factory,0.453,3,False
+1096,Data Engineering,0.447,4,False
+1096,Data Warehouse,0.44,5,False
+1100,Data Warehouse,0.44,1,True
+1101,Data Warehouse,0.31,1,True
+1102,Real-Time Intelligence,0.557,1,True
+1104,Copilot & AI in Fabric,0.617,1,True
+1104,Power BI,0.481,2,False
+1105,Governance & OneLake,0.209,1,True
+1106,Data Warehouse,0.456,1,True
+1108,Data Warehouse,0.49,1,True
+1108,Data Engineering,0.464,2,False
+1108,Data Factory,0.431,3,False
+1109,Power BI,0.669,1,True
+1110,Data Factory,0.507,1,True
+1110,Data Engineering,0.442,2,False
+1110,Power BI,0.436,3,False
+1110,Data Warehouse,0.424,4,False
+1111,Copilot & AI in Fabric,0.471,1,True
+1111,Data Warehouse,0.429,2,False
+1111,Data Science,0.42,3,False
+1112,Copilot & AI in Fabric,0.381,1,True
+1113,Real-Time Intelligence,0.703,1,True
+1113,Copilot & AI in Fabric,0.423,2,False
+1114,Partner & Industry,0.377,1,True
+1115,Power BI,0.536,1,True
+1119,Data Warehouse,0.654,1,True
+1121,Data Warehouse,0.477,1,True
+1121,Copilot & AI in Fabric,0.437,2,False
+1121,Data Factory,0.421,3,False
+1122,Copilot & AI in Fabric,0.518,1,True
+1122,Power BI,0.453,2,False
+1123,Data Warehouse,0.388,1,True
+1124,Power BI,0.306,1,True
+1127,Copilot & AI in Fabric,0.609,1,True
+1127,Power BI,0.442,2,False
+1128,Power BI,0.555,1,True
+1129,Power BI,0.18,1,True
+1130,Data Warehouse,0.36,1,True
+1133,Copilot & AI in Fabric,0.524,1,True
+1133,Data Warehouse,0.464,2,False
+1133,Power BI,0.455,3,False
+1134,Real-Time Intelligence,0.58,1,True
+1134,Copilot & AI in Fabric,0.455,2,False
+1135,Real-Time Intelligence,0.47,1,True
+1137,Governance & OneLake,0.341,1,True
+1140,Data Engineering,0.43,1,True
+1141,Data Warehouse,0.591,1,True
+1142,Copilot & AI in Fabric,0.557,1,True
+1145,Data Factory,0.09,1,True
+1147,Data Warehouse,0.372,1,True
+1151,Data Warehouse,0.292,1,True
+1152,Real-Time Intelligence,0.468,1,True
+1153,Data Factory,0.678,1,True
+1155,Data Warehouse,0.61,1,True
+1157,Power BI,0.18,1,True
+1017,Governance & OneLake,0.421,1,True
+1025,Data Warehouse,0.389,1,True
+1033,Governance & OneLake,0.519,1,True
+1033,Data Warehouse,0.471,2,False
+1033,Data Engineering,0.441,3,False
+1038,Data Warehouse,0.266,1,True
+1049,Governance & OneLake,0.52,1,True
+1050,Data Warehouse,0.419,1,True
+1070,Governance & OneLake,0.504,1,True
+1077,Data Warehouse,0.368,1,True
+1091,Data Warehouse,0.622,1,True
+1143,Data Warehouse,0.39,1,True
+1149,Data Warehouse,0.274,1,True
+1154,Data Warehouse,0.311,1,True
+1011,Data Warehouse,0.478,1,True
+1011,Copilot & AI in Fabric,0.471,2,False
+1022,Copilot & AI in Fabric,0.639,1,True
+1023,Data Warehouse,0.385,1,True
+1024,Data Warehouse,0.467,1,True
+1024,Data Factory,0.439,2,False
+1026,Copilot & AI in Fabric,0.355,1,True
+1027,Governance & OneLake,0.416,1,True
+1029,Copilot & AI in Fabric,0.416,1,True
+1030,Power BI,0.425,1,True
+1034,Copilot & AI in Fabric,0.635,1,True
+1034,Data Warehouse,0.432,2,False
+1041,Real-Time Intelligence,0.486,1,True
+1041,Data Warehouse,0.449,2,False
+1041,Copilot & AI in Fabric,0.44,3,False
+1041,Power BI,0.422,4,False
+1048,Governance & OneLake,0.43,1,True
+1058,Copilot & AI in Fabric,0.408,1,True
+1059,Real-Time Intelligence,0.705,1,True
+1060,Copilot & AI in Fabric,0.465,1,True
+1060,Data Warehouse,0.448,2,False
+1063,Copilot & AI in Fabric,0.401,1,True
+1065,Governance & OneLake,0.496,1,True
+1065,Data Warehouse,0.448,2,False
+1066,Data Factory,0.623,1,True
+1071,Copilot & AI in Fabric,0.634,1,True
+1071,Real-Time Intelligence,0.432,2,False
+1080,Real-Time Intelligence,0.377,1,True
+1082,Data Warehouse,0.407,1,True
+1090,Real-Time Intelligence,0.64,1,True
+1094,Governance & OneLake,0.519,1,True
+1094,Data Warehouse,0.462,2,False
+1099,Data Engineering,0.59,1,True
+1099,Data Warehouse,0.425,2,False
+1103,Data Warehouse,0.462,1,True
+1117,Data Warehouse,0.571,1,True
+1117,Data Engineering,0.48,2,False
+1117,Data Factory,0.463,3,False
+1118,Data Factory,0.407,1,True
+1120,Copilot & AI in Fabric,0.498,1,True
+1126,Data Warehouse,0.598,1,True
+1131,Data Engineering,0.563,1,True
+1131,Data Warehouse,0.541,2,False
+1132,Data Warehouse,0.576,1,True
+1132,Data Factory,0.561,2,False
+1138,Copilot & AI in Fabric,0.36,1,True
+1144,Data Factory,0.697,1,True
+1144,Data Warehouse,0.491,2,False
+1146,Data Factory,0.313,1,True
+1150,Real-Time Intelligence,0.438,1,True
+1156,Real-Time Intelligence,0.446,1,True
+1014,Power BI,0.543,1,True
+1021,Power BI,0.663,1,True
+1032,Power BI,0.663,1,True
+1043,Power BI,0.523,1,True
+1046,Power BI,0.606,1,True
+1064,Copilot & AI in Fabric,0.59,1,True
+1064,Power BI,0.543,2,False
+1075,Power BI,0.56,1,True
+1075,Data Warehouse,0.423,2,False
+1087,Copilot & AI in Fabric,0.608,1,True
+1087,Power BI,0.56,2,False
+1098,Power BI,0.539,1,True
+1098,Data Engineering,0.486,2,False
+1116,Power BI,0.615,1,True
+1139,Data Warehouse,0.455,1,True
+1148,Power BI,0.666,1,True
+1148,Data Factory,0.425,2,False
