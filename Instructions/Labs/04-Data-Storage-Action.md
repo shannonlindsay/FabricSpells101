@@ -12,4 +12,3 @@ In this lab you'll create both a SQL database and a user data function.
 
 - [Create a SQL database](https://scribehow.com/viewer/3a_Create_a_SQL_database_in_Fabric__bYEC2JgDTsy0iDeZAckalw?referrer=documents)
 - [Create and test a user data function](https://scribehow.com/viewer/3b_Create_and_Test_a_Fabric_User_Data_Functions__8XIFX8FIRgaSnqEGdL5QCQ?referrer=documents)
-
