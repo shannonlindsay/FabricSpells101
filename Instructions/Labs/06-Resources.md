@@ -10,6 +10,10 @@ lab:
 
 All resources from today's workshop can be found in the [GitHub repo](https://github.com/shannonlindsay/FabricSpells101/tree/queen/Allfiles/Labs).
 
+## Fabric Analyst in a Day
+
+This is a one-day hands-on Fabric training that Stephanie mentioned in the intro! Find it at: [aka.ms/FIAID](https://aka.ms/faiad)
+
 ## Collection of all Fabric Labs
 
 Take a look at the curated collection of [labs](https://microsoftlearning.github.io/mslearn-fabric/) that inclues all of the labs embedded in the Microsoft Learn modules on Fabric. There are 30+ Labs here that are sure to touch on every aspect of the Fabric platform!
