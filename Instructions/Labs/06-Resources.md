@@ -10,6 +10,10 @@ lab:
 
 All resources from today's workshop can be found in the [GitHub repo](https://github.com/shannonlindsay/FabricSpells101/tree/queen/Allfiles/Labs).
 
+## Lab instructions as a PDF
+
+If you're unable to use the website Scribe because of workplace restrictions on your browsing, download the lab instructions [from the folder](https://github.com/shannonlindsay/FabricSpells101/tree/queen/Allfiles/Labs).
+
 ## Fabric Analyst in a Day
 
 This is a one-day hands-on Fabric training that Stephanie mentioned in the intro! Find it at: [aka.ms/FIAID](https://aka.ms/faiad)
