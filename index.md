@@ -4,7 +4,23 @@ permalink: index.html
 layout: home
 ---
 
-# Welcome to the enchanted nexus 🌙✨
+# Welcome to the best day of the conference - Getting Started with Microsoft Fabric and Power BI
+
+## Meet your instructors! 
+
+- Stephanie Bruno, Microsoft MVP - Grand High Witch at Data Witches
+- Lakshmi Ponnurasan, Microsoft MVP, Power BI Dataviz World Champs Finalist - Data Analyst at Missouri University of Science and Technology
+
+## Meet your proctors!
+
+- Belinda Allen
+- Mike Carlo
+- Matthias Falland
+- Jackie Kiadii
+- Shannon Lindsay
+
+
+# What's in store 🌙✨
 
 Step into a realm where magic weaves through the fabric of the digital cosmos. Here, you'll find hyperlinks that are like ancient scrolls, each one holding the secrets to today's mystical session.
 
