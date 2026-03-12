@@ -1,4 +1,4 @@
-# Contributing to this repositories
+# Contributing to this repository
 
 Community contributions are a key part of keeping the lab and demo content current as the Azure platform changes. We want to make it as easy as possible for you to contribute changes to the lab files. Here are a few guidelines to keep in mind as you contribute changes.
 
