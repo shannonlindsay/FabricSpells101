@@ -8,16 +8,16 @@ layout: home
 
 ## Meet your instructors! 
 
-- Stephanie Bruno, Microsoft MVP - Grand High Witch at Data Witches
-- Lakshmi Ponnurasan, Microsoft MVP, Power BI Dataviz World Champs Finalist - Data Analyst at Missouri University of Science and Technology
+- [Stephanie Bruno](https://www.linkedin.com/in/brunostephanie/), Microsoft MVP - Grand High Witch at [Data Witches](https://data-witches.com/)
+- [Lakshmi Ponnurasan](https://www.linkedin.com/in/santhanalakshmip/), Microsoft MVP, Power BI Dataviz World Champs Finalist - Data Analyst at Missouri University of Science and Technology
 
 ## Meet your proctors!
 
-- Belinda Allen
-- Mike Carlo
-- Matthias Falland
-- Jackie Kiadii
-- Shannon Lindsay
+- [Belinda Allen](https://www.linkedin.com/in/msbelindaallen/)
+- [Mike Carlo](https://www.linkedin.com/in/michaelcarlo/)
+- [Matthias Falland](https://www.linkedin.com/in/matthias-falland/)
+- [Jackie Kiadii](https://www.linkedin.com/in/jkiadii/)
+- [Shannon Lindsay](https://www.linkedin.com/in/shannonrlindsay/)
 
 
 # What's in store 🌙✨
