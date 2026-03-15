@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 1'
-    module: 'Workspace, Lakehouse, Shortcuts'
+    module: '1 - Workspace, Lakehouse, Shortcuts'
 ---
 
 ![Illustration of a witch in a bathtub.](Linked_image_Files/image-1.png)
