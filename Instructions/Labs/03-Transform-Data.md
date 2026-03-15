@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 2'
-    module: 'Transform data with a Dataflow Gen2'
+    module: '2 - Transform data with a Dataflow Gen2'
 ---
 
 ![Illustration of witchy tools like a broom and a crystal ball.](https://github.com/shannonlindsay/WitchesGuide/assets/77289548/447db609-f27d-4de7-b2e3-0c653c466f3c)
