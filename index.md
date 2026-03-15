@@ -13,9 +13,9 @@ layout: home
 
 ## Meet your proctors!
 
+We'll have proctors/helpers popping in and out throughout the day to help you! If you have questions, these folks are here to help! 
+
 - [Belinda Allen](https://www.linkedin.com/in/msbelindaallen/)
-- [Mike Carlo](https://www.linkedin.com/in/michaelcarlo/)
-- [Matthias Falland](https://www.linkedin.com/in/matthias-falland/)
 - [Jackie Kiadii](https://www.linkedin.com/in/jkiadii/)
 - [Shannon Lindsay](https://www.linkedin.com/in/shannonrlindsay/)
 
