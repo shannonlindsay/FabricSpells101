@@ -45,7 +45,7 @@ If you're looking for specific learning modules, use the search function on the 
 | User Groups | [Nashville Modern Excel & Power BI User Group](https://www.meetup.com/nashville-modern-excel-user-group/) | Good for virtual presentations. |
 | Training | [Fabric Analytics Engineer in a Day (FAIAD)](aka.ms/FAIAD) | Great free training, introduction to Fabric. |
 | Model Documentation | [Model Documenter](https://data-marc.com/model-documenter/) | Good for model documentation. |
-| DataViz Competition | [Data Viz World Champs](aka.ms/pbidvwc) | DataViz Championship. Check out the gallery for inspiration ([aka.ms/pbidvwc/gallery](aka.ms/pbidvwc/gallery)). |
+| DataViz Competition | [Data Viz World Champs](aka.ms/pbidvwc26) | DataViz Championship. Check out the gallery for inspiration ([aka.ms/pbidvwc/gallery](aka.ms/contestsgallery)). |
 | Performance Analysis | [Power BI Performance Analyzer](https://learn.microsoft.com/power-bi/create-reports/desktop-performance-analyzer) | Check how fast (or slow) your DAX is. |
 | Power BI Report Optimization | [Use thin reports in Power BI](https://biinsight.com/thin-reports-what-are-they-and-why-should-i-care-and-how-can-i-create-them/) | Great article on the why and how of thin reports. |
 | Requirements Gathering | [Requirements gathering and checklists](https://data-goblins.com/checklists) | Great checklists related to the people and process. |
