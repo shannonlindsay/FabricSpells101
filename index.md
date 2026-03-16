@@ -32,6 +32,8 @@ Begin your adventure below, and may the stars guide your path.
 
 ## Course Links - labs and additional resources 🔮🪄
 
+***(SharePoint Link for Lab Instructions)[https://4lbi.sharepoint.com/:f:/s/filesfromYQ/IgD31AEn-9PIRqPDArYSNk31Af6d91ifWLQemOYso1KXTEI?e=sWEobd]
+
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
 | Topic | Link |
 | --- | --- | 
