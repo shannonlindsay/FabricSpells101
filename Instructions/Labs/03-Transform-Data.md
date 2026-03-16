@@ -14,6 +14,8 @@ In this lab, you'll clean up the session data and get it ready for display in yo
 
 Note - be sure to follow the steps exactly in this lab!
 
+If you aren’t able to access the Scribe instructions due to corporate restrictions on your PC, please see the PDF instructions on [GitHub](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/tree/queen/Allfiles/Labs).
+
 
 
 
