@@ -15,4 +15,4 @@ In this lab you'll create a semantic model connected to OneLake and build a repo
 - [Finish the semantic model in the service - add relationships and measures](https://scribehow.com/viewer/4b_Finish_the_semantic_model_in_the_service__ACnC_9EJRCqdkDg0HIVEGg?referrer=documents)
 - [Create a Power BI report with write-back using a translytical task flow](https://scribehow.com/viewer/4c_Create_a_Power_BI_report_with_write-back__9VCh4EkiQY22-v4Gs2rp1w?referrer=documents)
 
-If you aren’t able to access the Scribe instructions due to corporate restrictions on your PC, please see the PDF instructions on [GitHub](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/tree/queen/Allfiles/Labs).
+If you aren’t able to access the Scribe instructions due to corporate restrictions on your PC, please see the PDF instructions on [GitHub](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/tree/queen/Allfiles/Labs) or [SharePoint](https://4lbi.sharepoint.com/:f:/s/filesfromYQ/IgCVfdLwSBlTQaB4tV3p_k3pAfDS7bXaHftD3C2q6OIKiZU?e=IYJCC4)
