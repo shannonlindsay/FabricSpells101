@@ -4,7 +4,7 @@ lab:
     module: '5 - Power BI Labs'
 ---
 
-![Illustration of a corgi sitting in front of Power BI report screenshots.](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/blob/queen/Instructions/Images/Designer%20(1).png)
+![Illustration of a corgi sitting in front of Power BI report screenshots.](Instructions/Images/Designer (1).png)
 
 # Lab 5 - Create your Power BI report
 
