@@ -18,4 +18,4 @@ In the afternoon labs you'll create a Power BI report where you will:
 - [Page 4: Scheduler - the fun page!!](https://scribehow.com/viewer/5f_Page_4_Scheduler_The_fun_page__9pa6-ChYT16OL_fYcWUr0w)
 - [Final touches (Optional)](https://scribehow.com/viewer/5g_Optional_Final_Touches__K8rXMRY2RFeT_tZcBDgVPQ)
 
-If you aren't able to access the Scribe instructions due to corporate restrictions on your PC, please see the PDF instructions on [GitHub](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/tree/queen/Allfiles/Labs) - labs 5a through 5g.
+If you aren't able to access the Scribe instructions due to corporate restrictions on your PC, please see the PDF instructions on [GitHub](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/tree/queen/Allfiles/Labs). The afternoon Power BI labs are: labs 5a through 5g.
