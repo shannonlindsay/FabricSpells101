@@ -15,3 +15,5 @@ In this multi-part lab, you'll:
 - [Explore data using the SQL analytics endpoint](https://scribehow.com/viewer/1c_Query_Data_in_a_Lakehouse_SQL_Analytics_Endpoint__8fuOKDMqSpW8Zu_msstRNw?referrer=documents)
 
 These are the foundations of building the schedule builder in Fabric! You need to complete each of these 3 parts before moving onto the next lab, where we'll transform the data we just brought into our lakehouse using a shortcut.
+
+If you aren’t able to access the Scribe instructions due to corporate restrictions on your PC, please see the PDF instructions on [GitHub](https://github.com/shannonlindsay/Getting-Started-with-Microsoft-Fabric-and-Power-BI/tree/queen/Allfiles/Labs).
